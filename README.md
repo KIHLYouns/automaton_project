@@ -1,4 +1,4 @@
-## Automata Theory Project
+## Automaton Project
 
 This project implements a finite automaton (FA) in C and demonstrates core concepts from automata theory.
 

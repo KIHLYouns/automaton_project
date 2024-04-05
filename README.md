@@ -72,13 +72,19 @@ gcc automate.c -o automate
 - `*.txt`: Automaton text files.
 - `mots.txt`: Word lists.
 
+### Future Enhancements
+
+- Implement determinization of FAs.
+
 ### Contributing
 
 - Feel free to submit pull requests for bug fixes, improvements, or additional features.
 
-### Future Enhancements
+## Collaborators
 
-- Implement determinization of FAs.
+This project wouldn't be possible without the help of:
+
+* [BENCAID Mouad](https://github.com/mouadd9)
 
 
 

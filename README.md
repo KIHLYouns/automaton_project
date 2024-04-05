@@ -21,7 +21,7 @@ This project implements a finite automaton (FA) in C and demonstrates core conce
 #### Clone the Repository:
 
 ```bash
-git clone https://github.com/mouadd9/automaton_project.git
+git clone https://github.com/KIHLYouns/automaton_project.git
 ```
 #### Compile:
 

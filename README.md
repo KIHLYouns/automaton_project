@@ -39,7 +39,7 @@ gcc automate.c -o automate
 - **IMPORTANT:** Before any operations, choose option 0 in Menu1-1 to provide the name of the text file containing your automaton definition.
 - Text files should adhere to a specific format (example provided below).
 
-![MENU](Tuto.png)
+![MENU](images/Tuto.png)
 
 #### Example Text File Format (a.txt):
 ```
@@ -64,7 +64,7 @@ gcc automate.c -o automate
   dot -Tpng Automate.dot -o Automate.png
   ```
   
-  ![automaton a](1.png)
+  ![automaton a](images/1.png)
   
 #### Project Structure
 
